@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction">
+        <item>Wait for money</item>
+        <item>Be careful</item>
+        <item>Everything will be fine</item>
+        <item>Lose money</item>
+        <item>LOVE</item>
+        <item>New connection</item>
+        <item>Become android developer</item>
+        <item>777</item>
+        <item>:(</item>
+        <item>Better Days</item>
+    </string-array>
+</resources>
